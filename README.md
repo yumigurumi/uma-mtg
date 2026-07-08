@@ -1,7 +1,7 @@
 # Umamusume: Universes Beyond - UUMA
 This is a [Cockatrice](https://cockatrice.github.io/)-compatible Umamusume-inspired Universes Beyond set for Magic the Gathering. The set is created using [Magic Set Editor.](https://magicseteditor.boards.net/?utm_source=google&utm_medium=organic)
 
-[View all cards here.](https://yumigurumi.github.io/uma-mtg/spoiler.html)
+### [> View all cards here!](https://yumigurumi.github.io/uma-mtg/spoiler.html)
 
 ## Cockatrice installation (for Windows):
 - Go to the [Releases](https://github.com/yumigurumi/uma-mtg/releases) page.
