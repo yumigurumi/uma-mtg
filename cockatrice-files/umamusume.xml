@@ -1281,7 +1281,7 @@ Whenever enchanted creature blocks a creature with flying, enchanted creature ga
     </card>
     <card>
       <name>Council&apos;s Judgement</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="uncommon">UUMA</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -1411,7 +1411,7 @@ Whenever enchanted creature deals combat damage to an opponent, it deals that mu
     </card>
     <card>
       <name>Air Shakur, Data-Driven</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="mythic">UUMA</set>
       <prop>
         <colors>UB</colors>
         <manacost>3UB</manacost>
@@ -1729,7 +1729,7 @@ Whenever you cast a spell, if mana from a Treasure was spent to cast it, this Cl
     </card>
     <card>
       <name>Dream Journey, End&apos;s Witness</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="mythic">UUMA</set>
       <prop>
         <colors>WB</colors>
         <manacost>2WB</manacost>
@@ -1912,7 +1912,7 @@ Tap an untapped artifact you control: Mihono Bourbon gets +X/+X until end of tur
     </card>
     <card>
       <name>Chrono Genesis, Chronicler of Time</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="mythic">UUMA</set>
       <prop>
         <colors>WU</colors>
         <manacost>5WUU</manacost>
@@ -1990,7 +1990,7 @@ Mutagens you control have</text>
     </card>
     <card>
       <name>Colorstorm Stallion</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="rare">UUMA</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -2897,19 +2897,20 @@ Wild Frontier — Whenever a land you control enters, you may have Taiki Shuttle
 Shooting for Victory! — Whenever a source you control deals noncombat damage to a creature, that creature can’t block this turn.</text>
     </card>
     <card>
-      <name>Air Groove, Empress (WIP)</name>
+      <name>Air Groove, Empress</name>
       <set rarity="rare">UUMA</set>
       <prop>
-        <colors>WUB</colors>
-        <manacost>2WUB</manacost>
-        <cmc>5</cmc>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Horse Racer Noble </type>
         <maintype>Creature</maintype>
-        <pt>5/7</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Air Groove enters, you become the monarch.
-Creatures can’t attack you unless their controller pays {1} for each creature they control that’s attacking you. If you’re the monarch, creatures can’t attack you unless their controller pays {2} for each creature they control that’s attacking you instead.</text>
+      <text>Vigilance, ward {1}
+When Air Groove enters, you become the monarch.
+Horses you control have “Whenever this creature becomes tapped during your turn, untap it and gain 1 life. If you’re the monarch, instead untap it and gain 2 life. This ability only activates once each turn.”</text>
     </card>
     <card>
       <name>Grass Wonder, Yamato Nadeshiko</name>
@@ -3008,8 +3009,8 @@ Permanents with MARVELOUS! ☆ counters have protection from permanents without 
 Whenever one or more creatures an opponent controls deals combat damage to a player, Shinko Windy deals damage equal to her power to target attacking creature.</text>
     </card>
     <card>
-      <name>Espoir City, Red Devil Gear</name>
-      <set rarity="common">UUMA</set>
+      <name>Espoir City, Red Devil Gear (WIP)</name>
+      <set rarity="rare">UUMA</set>
       <prop>
         <colors>BR</colors>
         <manacost>BR</manacost>
@@ -3049,7 +3050,7 @@ Whenever a creature dealt damage by Oguri Cap this turn leaves the battlefield, 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>This spell has flash as long as you control a Horse.
+      <text>You may cast this spell as though it had flash if you control a Horse.
 Draw two cards. If this spell was cast during combat, draw three cards instead.</text>
     </card>
     <card>
@@ -3095,6 +3096,38 @@ Evoke 2BRG</text>
       <tablerow>2</tablerow>
       <text>Menace
 Whenever Almond Eye, Crown-Chaser deals combat damage to an opponent, put a victory counter on Almond Eye, Crown-Chaser. Then for each victory counter on it, that opponent sacrifices a creature or discards a card.</text>
+    </card>
+    <card>
+      <name>Daiichi Ruby, Brilliant Young Lady</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, ward {1}
+Whenever one or more creatures you control with haste deal combat damage to a player, create a Treasure.
+W/UR: Choose up to four target creatures. They can’t block Daiichi Ruby this turn.</text>
+    </card>
+    <card>
+      <name>Mejiro Palmer, Breaking the Line</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>2URW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, haste
+Jump!? — You may exert Mejiro Palmer as she attacks. If you do, she gains flying until end of turn.
+At the end of the first combat phase on your turn, if you gained 6 or more life and Mejiro Palmer hasn’t been exerted this turn, untap all creatures with haste you control. After this phase, there is an additional combat phase.</text>
     </card>
 
     <!-->Tokens</-->
