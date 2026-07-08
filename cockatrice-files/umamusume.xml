@@ -1,0 +1,3181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>UUMA</name>
+      <longname>Uma Musume</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Jungle Pocket, the Strongest&apos;s Roar</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Battle cry 
+Whenever a creature you control with power greater than its base power deals combat damage to a player, if Jungle Pocket attacked this combat, choose one:
+- Put a +1/+1 counter on target creature.
+- Add {R} or {G}. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Make Debut!</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Last Spurt</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until the beginning of your next turn, creatures have haste. Untap all creatures you control. After this phase, there is an additional combat phase.</text>
+    </card>
+    <card>
+      <name>Hall of Heliod&apos;s Generosity</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+1W, {T}: Put target enchantment card from your graveyard on top of your library.</text>
+    </card>
+    <card>
+      <name>Forever Young, Innovator</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Legenday Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time.
+Once each turn, you may cast an instant, sorcery, or artifact spell from the top of your library.
+Instant and sorcery spells you cast have improvise.</text>
+    </card>
+    <card>
+      <name>Kitasan Black, Fiery Frontrunner</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Satono Diamond, Jinx Breaker
+Haste
+Whenever you cast an instant or sorcery spell, create a colorless artifact token named Firework with “{1}, {T}, Sacrifice this token: Firework deals 2 damage to any target.”</text>
+    </card>
+    <card>
+      <name>Long Ride Home</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap all creatures. Put a stun counter on each tapped creature.</text>
+    </card>
+    <card>
+      <name>Firework</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this token: Firework deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Satono Diamond, Jinx Breaker</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Kitasan Black, Fiery Frontrunner
+Vigilance
+{T}: Prevent the next X damage that would be dealt to you this turn, where X is the amount of noncombat damage dealt by sources you control this turn.</text>
+    </card>
+    <card>
+      <name>Oguri Cap, Beloved by All</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Devour Food 3
+At the beginning of each end step, sacrifice all Foods you control. You gain 3 life for each Food sacrificed this way. Then if you gained 6 or more life this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Food</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Full Throttle</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Generous Gift</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.</text>
+    </card>
+    <card>
+      <name>Secret Rendezvous</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You and target opponent each draw three cards.</text>
+    </card>
+    <card>
+      <name>Sphere of Safety</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures can’t attack you or planeswalkers you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>Gourmand</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Artifacts you control are foods in addition to their other types and have “{3}, {T}: Sacrifice this permanent: You gain 3 life.”
+Whenever you sacrifice a Food, regenerate target creature you control.</text>
+    </card>
+    <card>
+      <name>Special Week, Japan&apos;s Brightest</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Start your engines!
+Sacrifice 2 Foods: Put X +1/+1 counters on Special Week, where X is your speed.
+Max speed — Creature spells you cast have affinity for Food.</text>
+    </card>
+    <card>
+      <name>Silence Suzuka, Seeking Scenery</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Silence Suzuka’s power is equal to the number of differently named lands you control.
+Frontrunning — At the beginning of your upkeep, if an opponent controls more lands than you, look at the top card of your library. If it’s a land card, you may put it on the battlefield.
+Landfall — Whenever a land you control enters, if it has a different name to each other land you control, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Fine Motion, Noble Seamair</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reminiscience — At the beginning of your end step, return target card from your graveyard to your hand. If it’s a permanent card with mana value less than or equal to Fine Motion’s power, return it to the battlefield tapped instead.</text>
+    </card>
+    <card>
+      <name>Forest Exploration</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+At the beginning of your upkeep, target creature you control explores.</text>
+    </card>
+    <card>
+      <name>Legend-Changer</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WWW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Legendary creatures you control get +1/+1 and have first strike, vigilance, lifelink and ward {2}.</text>
+    </card>
+    <card>
+      <name>A Little Prayer</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, support 2.</text>
+    </card>
+    <card>
+      <name>Marvelous Spotlight!</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+Enchanted creature has all activated abilities of all cards exiled with Marvelous ✰ Spotlight!</text>
+    </card>
+    <card>
+      <name>Summer Camp (Year 2)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vanishing 2
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead.</text>
+    </card>
+    <card>
+      <name>Summer Camp (Year 3)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vanishing 2
+Each creature you control with base power less than 5 has base power 5.
+Each creature you control with base toughness less than 5 has base toughness 5.</text>
+    </card>
+    <card>
+      <name>Narita Top Road, Fan Favorite</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cheer me on...! — Whenever Narita Top road attacks, move any number of +1/+1 counters from creature tokens you control onto Narita Top Road.
+If Narita Top Road entering, attacking, or leaving the battlefield causes a triggered ability of a creature you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>The Silent Predecessor</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Legendary Rivalries — Other legendary Horses you control have “Whenever another legendary Horse you control enters, put a +1/+1 counter on this creature.
+{3}, {T}: Choose another target Horse you control that doesn’t have the same name as another permanent you control. Create a token that’s a copy of it, except it’s 1/1 and isn’t legendary.</text>
+    </card>
+    <card>
+      <name>Almond Eye, Twinkle Legend</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>4WUBRG</manacost>
+        <cmc>9</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward cost— Pay 9 life.
+You can’t lose the game and your opponents can’t win the game.
+At the beginning of your upkeep, you get an experience counter. Then if you have nine or more experience counters, you win the game.</text>
+    </card>
+    <card>
+      <name>Secretary Tazuna Hayakawa</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human? Horse? </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trainee Scout — At the beginning of your upkeep, reveal cards from the top of your library until you reveal a Horse creature card. Put that card into your hand and the rest at the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Tokai Teio, Unbeatable</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tokai Teio enters, target opponent becomes the monarch. You can’t become the monarch this turn.
+During your turn, prevent all combat damage that would be dealt to Teio by creatures the monarch controls.
+Whenever you become the monarch, put a crown counter on Teio.
+As long as Teio has three or more crown counters on her, she gets +3/+3 and has flying, double strike, and lifelink.</text>
+    </card>
+    <card>
+      <name>Admire Groove, a Cold Solitude</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>1WUB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Admire Groove enters, remove all counters from any number of target creatures.
+{T}: Remove all counters from target creature.
+3U: Creatures you control gain shroud and protectionf rom red until end of turn.</text>
+    </card>
+    <card>
+      <name>Uma Lord Golshi</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BRR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer Demon </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gold Ship attacks, roll a d6.
+1 | Gold Ship assigns no damage this combat.
+2 | Remove Gold Ship from combat and untap her.
+3 | You lose 2 life and draw two cards.
+4 | Create two Treasure tokens and two Blood tokens.
+5 | Gold Ship deals damage equal to her power to each opponent.
+6 | If a source you control would deal damage this turn, it deals double that damage instead. Prevent all combat damage that would be dealt to creatures you control this turn.</text>
+    </card>
+    <card>
+      <name>Rice Shower, Black Assassin</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Rice Shower attacks a player, if no opponent has more life than that player, draw a card. Rice Shower gains first strike and deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Seiun Sky, Devious Trickster</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+As long as Seiun Sky is attacking or blocking, you may cast noncreature spells as though they had flash.
+Noncreature spells you cast during combat cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Matikanetannhauser, Inspiring Star</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>1RGWU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first legendary creature spell you cast each turn costs RGWU less to cast. This effect reduces only the amount of colored mana you pay.
+Whenever you cast a legendary spell, draw a card.
+Other legendary creatures you control have haste and +0/+1.</text>
+    </card>
+    <card>
+      <name>Matikanefukukitaru, Fortune&apos;s Favored</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if it was foretold, flip a coin. If you win the flip, copy that spell. You may choose new targets for the copy. Otherwise, untap up to two lands and exile that spell face-down. It becomes foretold.</text>
+    </card>
+    <card>
+      <name>Daitaku Helios, Hyped Party-Girl</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, haste
+Runaway — Whenever Daitaku Helios and at least one other creature with haste attack, creatures your opponents control get -1/-0 for each attacking creature with haste you control.</text>
+    </card>
+    <card>
+      <name>Aston Machan, The World&apos;s Mascot</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Don’t Forget Me — R/WR/W: Change the target of target spell or ability with a single target to Aston Machan.
+Whenever Aston Machan becomes the target of a spell or non-equip ability, create a 0/1 colorless Toy artifact creature token with myriad named Machan Doll.</text>
+    </card>
+    <card>
+      <name>Biwa Hayahide, Deriving Victory</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if its mana value is a prime number, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is that spell’s mana value.
+My winning formula. — Whenever you attack, target creature you control with power equal to a prime number can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Narita Taishin, Encroaching Shadow</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1WU/R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Nimble (This creature can’t be blocked by creatures with power 3 or greater.)
+I’ll show them..! — If Narita Taishin is unblocked, you may have her get +3/+0 until end of turn. If you don’t, until end of combat, each creature card in your hand with power 2 or less has ninjutsu. The ninjutsu cost is equal to its mana cost reduced by {1}.</text>
+    </card>
+    <card>
+      <name>Machan Doll</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact Creature - Toy </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Myriad</text>
+    </card>
+    <card>
+      <name>Winning Ticket, Dreaming Big</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Battle cry
+Luckiest Umamusume — Whenever Winning Ticket attacks, flip a coin. If you win the coin flip, she can’t be blocked this turn.
+1RW: Goad each creature you control. They gain first strike and haste until end of turn. Activate this ability only if you control four or more nontoken creatures, and only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Super Creek, Kind-Hearted Carer</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent casts a creature spell with power of toughness 2 or less, they may draw a card. If you do, you draw a card.
+If a source would deal X or less combat damage to Super Creek, where X is her toughness, prevent that damage.
+Give Mommy a Hug — Super Creek can block up to two additional creatures each combat.</text>
+    </card>
+    <card>
+      <name>Fujimasa March, Relentless</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Persist
+Fujimasa March has menace as long as she has a -1/-1 counter on her.
+{2}, Sacrifice another creature: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Admire Vega, Shooting Star</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Constellation — Whenever an enchantment you control enters, each opponent loses 1 life.
+Whenever a creature you control dies, put a +1/+1 counter on Admire Vega.
+{2}, Pay 2 life, Put a -1/-1 counter on Admire Vega: Add WB. Use this mana only to cast enchantment spells or activate abilities of enchantments.</text>
+    </card>
+    <card>
+      <name>TM Opera O, Centurial Overlord</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When T.M. Opera O enters, you become the monarch.
+Boast — 2{R}: Goad up to two target creatures. These creatures can’t block this turn.
+Whenever the final chapter ability of a Saga you control triggers, creatures you control get +2/+2 until end of turn. If you’re the monarch, put a lore counter on each Saga you control.</text>
+    </card>
+    <card>
+      <name>Fuji Kiseki, Sparkling Entertainer</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1WU, {T}: Scry 1.
+Each card in your hand has miracle. Its miracle cost is equal to its mana cost reduced by {X}, where X is the number of spells cast since your last turn.</text>
+    </card>
+    <card>
+      <name>Manhattan Cafe, Creeping Shadow</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Always by my side... — At the beginning of your end step, if you control no Spirits, manifest dread.
+A guardian spirit... — Face-down creatures you control have flying and are Spirits in addition to their other types.
+She leads me... — Whenever you attack a player with Cafe and one or more Spirits, you draw a card and gain 1 life.
+My dear friend. — Soulshift 4</text>
+    </card>
+    <card>
+      <name>Agnes Tachyon, Faster Than Light</name>
+      <set rarity="mythic" splitterPath="/Agnes Tachyon, Faster Than Light.png" >UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, ethereal (This creature can’t be the target of spells or abilities you control.)
+Start your engines!
+Tachyon can’t be blocked.
+Tachyon’s power is equal to your speed.
+Max speed — At the beginning of your end step, transform Tachyon.
+---
+(Back): Agnes Tachyon, Afterglow of Madness</text>
+      <related attach="transform">Agnes Tachyon, Afterglow of Madness</related>
+    </card>
+    <card>
+      <name>Agnes Tachyon, Afterglow of Madness</name>
+      <set rarity="mythic" splitterPath="/Agnes Tachyon, Afterglow of Madness.png" >UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Advisor </type>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tachyon can’t attack or block.
+{T}: Choose one —
+ • Put a +1/+1 counter on target creature and goad it.
+ • Whenever target modified creature deals combat damage to a player this turn, scry 2, then draw a card.
+ • Target modified creature gains first strike, lifelink, and vigilance until end of turn.
+---
+(Front): Agnes Tachyon, Faster Than Light</text>
+      <related attach="transform">Agnes Tachyon, Faster Than Light</related>
+    </card>
+    <card>
+      <name>Dantsu Flame, Centre Stage</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>I’ll be...! — Whenever you put one or more counters on another creature you control, put that many of each of those kinds of counters on Dantsu Flame.</text>
+    </card>
+    <card>
+      <name>Durandal, Holy Sword</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Start your engines!
+Equip costs you pay cost {X} less, where X is your speed.
+Max speed — You may activate equip abilities that target Durandal any time you could cast an instant.</text>
+    </card>
+    <card>
+      <name>Vivlos, Little Devil</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Vivlos enters, create Dubai, a legendary colorless land token with “{T}: Create a Treasure token.” It enters tapped.
+If one or more tokens would be created under your control, those tokens plus an additional 1/1 white Fan creature token are created instead. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Cheval Grand, Ambitious</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, evolve
+I want to win... — Whenever one or more +1/+1 counters are put on this creature, draw a card if this is the first time this ability has resolved this turn. Then if her power is 7 or greater, she gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Verxina, Doting Queen</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWWU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever one or more other creatures you control with power 1 enter, draw a card. This ability triggers only once each turn.
+At the beginning of combat on your turn, put a +1/+1 counter on each creature you control with lesser power or toughness than Verxina.</text>
+    </card>
+    <card>
+      <name>Still in Love, a Burning Passion</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Still in Love enters, remove all desire counters from all creatures, then put a desire counter on target creature an opponent controls.
+Creatures with desire counters on them can’t attack you or planeswalkers you control.
+R/WB/R, Sacrifice Still in Love: Gain control of target creature with a desire counter on it. You lose life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Marche Lorraine, March of Triumph</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RRW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your opponents can’t cast spells during your turn.
+I, uhm, well... — Whenever an opponent casts a spell, if it isn’t the first spell they cast this turn, Marche deals damage to them equal to her power.
+Partner — Watch Us Flourish!</text>
+    </card>
+    <card>
+      <name>Loves Only You, Love-Linked Aster</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Circulating Love — Whenever an opponent casts a spell, if it isn’t the first spell they’ve cast this turn, you and that opponent create a tapped Treasure token and you put a +1/+1 counter on target creature.
+Partner — Watch Us Flourish!</text>
+    </card>
+    <card>
+      <name>Rulership, Ruler of the Board</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, if Rulership is untapped and you have fewer than seven cards in hand, draw cards equal to the difference.
+Whenever a spell you control is countered or a permanent you control is put into the graveyard from the battlefield, if there are no stun counters on Rulership, tap her, put a stun counter on her, and discard half the cards in your hand at random, rounded up.</text>
+    </card>
+    <card>
+      <name>Dubai</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Token Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Create a Treasure Token.</text>
+    </card>
+    <card>
+      <name>Professor Sugar Lights</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Pilot Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Professor Sugar Lights crews Vehicles as though her power were 2 greater.
+At the beginning of your upkeep, if you don’t control a Vehicle named ST-2, create ST-2, a legendary 2/2 colorless Vehicle artifact token with haste and crew 3.
+Whenever Sugar Lights crews a Vehicle named ST-2, put your choice of a first strike, flying, lifelink, trample, vigilance, or two +1/+1 counters on that Vehicle.</text>
+    </card>
+    <card>
+      <name>ST-2</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Haste
+Crew 3</text>
+    </card>
+    <card>
+      <name>Enter the Enigma</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature can’t be blocked this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Laurel&apos;s Fierce Serve</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature unless its controller pays {2}. If they do, they gain control of this spell. They may choose new targets for it.</text>
+    </card>
+    <card>
+      <name>Mental Block</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -4/-0 and loses all abilities.
+{2}: Return enchanted creature to its owner’s hand. Only enchanted creature’s controller may activate this ability.</text>
+    </card>
+    <card>
+      <name>Outmatched</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you control. Tap target creature an opponent controls with lesser power and put X stun counters on it, where X is the difference between those creatures’ powers.</text>
+    </card>
+    <card>
+      <name>Unveiled Instincts</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2R/G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When this Aura enters, untap enchanted creature.
+Enchanted creature has reach.
+Whenever enchanted creature blocks a creature with flying, enchanted creature gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Clash of Resolves</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/RB/RB/RB/R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flip a coin. If you win the flip, target opponent sacrifices a creature, and you decide whether to flip again. If you lose the flip, you sacrifice a creature, and that player decides whether to flip again.</text>
+    </card>
+    <card>
+      <name>Overrunner!</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4UURR</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Scrapbook</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>5RG</manacost>
+        <cmc>7</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Exile target creature from your graveyard. Flip a coin. Activate only as a sorcery. If the coin comes up heads, return that card to your hand. If it comes up tails, copy that card. You may cast the copy without paying its mana cost. The copy gains haste and “At the beginning of the end step, sacrifice this token.”</text>
+    </card>
+    <card>
+      <name>Expressive Iteration</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may pay the exiled card this turn.</text>
+    </card>
+    <card>
+      <name>Stargaze</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest of them into your graveyard. You lose X life.</text>
+    </card>
+    <card>
+      <name>Dance with Calamity</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>7R</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shuffle your library. As many times as you choose, you may exile the top card of your library. If the total mana value of the cards exiled this way is 13 or less, you may cast any number of spells from among those cards without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Torment of Hailfire</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.</text>
+    </card>
+    <card>
+      <name>Crackle with Power</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XXXRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Crackle with Power deals five times X damage to each of up to X targets.</text>
+    </card>
+    <card>
+      <name>Fan</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Fan </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Racers&apos; Ring</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {R} or {G}.
+2RG, {T}, Sacrifice this land: Draw a card.</text>
+    </card>
+    <card>
+      <name>Spectator Seating</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped unless you have two or more opponents.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Training Center</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped unless you have two or more opponents.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Preordain</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>Three Steps Ahead</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spree (Choose one or more additional costs.)
++ 1U — Counter target spell.
++ {3} — Create a token that’s a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Dark Ritual</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add BBB.</text>
+    </card>
+    <card>
+      <name>Evil Twin</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it gains “UB, {T}: Destroy target creature with the same name as this creature.”</text>
+    </card>
+    <card>
+      <name>Mentor of the Meek</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Fractured Identity</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent. Each player other than its controller creates a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Judgement</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Will of the council — Starting with you, each player votes for a nonland permanent you don’t control. Exile each permanent with the most votes or tied for most votes.</text>
+    </card>
+    <card>
+      <name>Ponder</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Tempt with Glory</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tempting offer — Put a +1/+1 counter on each creature you control. Each opponent may put a +1/+1 counter on each creature they control. For each opponent who does, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Super State</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
+Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+    </card>
+    <card>
+      <name>Air Shakur, Data-Driven</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>3UB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>*/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for Clues
+Air Shakur’s power is equal to the number of Clues you control.
+Whenever one or more creatures you control deal combat damage to a player, investigate.</text>
+    </card>
+    <card>
+      <name>Caretaker&apos;s Talent</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Whenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.
+{W}: Level 2
+When this Class becomes level 2, create a token that’s a copy of target token you control.
+3W: Level 3
+Creature tokens you control gain +2/+2.</text>
+    </card>
+    <card>
+      <name>Rapturous Moment</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4UR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards. Add UURRR.</text>
+    </card>
+    <card>
+      <name>The Triple Crown</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a haste counter &amp; first strike counter on target creature with the greatest power among creatures you control.
+II — Put a hexproof counter on creature you control chosen at random.
+III — Put an indestructible counter on target creature with the greatest toughness among creatures you control.</text>
+    </card>
+    <card>
+      <name>The Triple Tiara (WIP)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — ​
+II — ​
+III — ​</text>
+    </card>
+    <card>
+      <name>Symboli Rudolf, Emperor</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>4GWU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eminence — As long as Symboli Rudolf is in the command zone or on the battlefield, Horses you control have training.
+When Symboli Rudolf enters, you become the monarch.
+When you draw your second card each turn, choose one. If you’re the monarch, choose one or more instead.
+• Populate.
+• Proliferate.</text>
+    </card>
+    <card>
+      <name>Godolphin Barb, Goddess of Love</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse God </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, indestructible
+Godolphin Barb can’t attack or block unless you control another Horse.
+When Godolphin Barb enters and at the beginning of your upkeep, create a 1/1 white Cat creature token with lifelink.
+Creature tokens you control have “{T}: Target Horse gains lifelink and indestructible until end of turn. Put a +1/+1 counter on it.”</text>
+    </card>
+    <card>
+      <name>Byerley Turk, Goddess of Discipline</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>2RWB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse God </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, indestructible
+Byerley Turk can’t attack or block unless you control another Horse.
+Whenever another Horse you control attacks, put a +1/+1 counter on it.
+Other modified Horses you control have vigilance if they’re white, menace if they’re black, and first strike if they’re red.</text>
+    </card>
+    <card>
+      <name>Darley Arabian, Goddess of Bravery</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>2URW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse God </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, indestructible
+Darley Arabian can’t attack or block unless you control another Horse.
+Opus — Whenever you cast an instant or sorcery spell, put a +1/+1 counter on another Horse you control. It gains haste until end of turn. If five or more mana was spent to cast that spell, copy the next activated or triggered ability you control from another Horse source.</text>
+    </card>
+    <card>
+      <name>Cinderella Gray</name>
+      <set rarity="common" splitterPath="/Cinderella Gray.png" >UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+This Saga can be your commander.
+I, II, III — Until end of turn, creatures you control have +2/+2, trample, and menace. Whenever you deal combat damage to a player this turn, create a Food token.
+IV — You may sacrifice 5 Food tokens. If you do, exile this Saga, then return it to the battlefield transformed under your control. Otherwise, remove 1 lore counter from this Saga and activate that effect instead.
+asa
+Transform Cinderella Gray.
+---
+(Back): Oguri Cap, Cinderella Gray</text>
+      <related attach="transform">Oguri Cap, Cinderella Gray</related>
+    </card>
+    <card>
+      <name>Oguri Cap, Cinderella Gray</name>
+      <set rarity="common" splitterPath="/Oguri Cap, Cinderella Gray.png" >UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <pt>4/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, trample, double strike
+Gourmand — Whenever you gain life, place that many +1/+1 counters on Oguri Cap.
+Triumphant Pulse — Whenever Oguri Cap becomes the target of a spell or ability an opponent controls, you may have Oguri Cap first fight target creature that opponent controls (before the spell or ability resolves).
+---
+(Front): Cinderella Gray</text>
+      <related attach="transform">Cinderella Gray</related>
+    </card>
+    <card>
+      <name>No Reason, Turbulent Conquest</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Samurai Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Start your engines!
+No Reason has bushido equal to your speed.
+Whenever No Reason attacks alone, untap her. If it’s the first combat phase of the turn, there is an additional combat phase after this phase.
+Max speed — Horses &amp; Samurai you control gain first strike. Horse Samurai you control gain double strike.</text>
+    </card>
+    <card>
+      <name>Agnes Digital, All-Around Otaku</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2R/W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for Horses (This spell costs {1} less to cast for each Horse you control.)
+Whenever Agnes Digital attacks with another Horse or is blocked by another Horse, if that Horse has flying and Agnes Digital doesn’t, Agnes Digital gains flying until end of turn. The same is true for first strike, double strike, deathtouch, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+    </card>
+    <card>
+      <name>Path to Exile</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Propaganda</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures can’t attack you unless their controller pays {2} for each creature they control that’s attacking you.</text>
+    </card>
+    <card>
+      <name>U=ma²</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>XUR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
+Choose target attacking creature. Look at the top U cards of your deck, where U is equal to that creature’s power times X². (0² = 0, 1² = 1, 2² = 4, 3² = 9, 4² = 16, and so on. PEMDAS applies.) Put one of those cards into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Haru Urara, Hard-Trying</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, trample, vigilance</text>
+    </card>
+    <card>
+      <name>Swords to Plowshares</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Its controller gains life equal to its power.</text>
+    </card>
+    <card>
+      <name>Tamamo Cross, White Lightning</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>White Lightning — If an instant or sorcery source would deal damage to Tamamo Cross, instead put that many +1/+1 counters on her.
+Comin’ Through! — Whenever you gain life, Tamamo Cross gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Alchemist&apos;s Talent</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Alchemist’s Talent enters, create two tapped Treasure tokens.
+1R: Level 2
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color.”
+4R: Level 3
+Whenever you cast a spell, if mana from a Treasure was spent to cast it, this Class deals damage equal to that spell’s mana value to each opponent.</text>
+    </card>
+    <card>
+      <name>Dream Journey, End&apos;s Witness</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Do not touch. — Whenever an opponent commits a crime against you, Dream Journey deals 3 damage to them and you gain 3 life. 
+Do not touch. — The second time an opponent commits a crime against you each turn, they discard a card.
+__________. — The third time an opponent commits a crime against you each turn, exile target nonland permanent they control.</text>
+    </card>
+    <card>
+      <name>Nakayama Festa, Natural Gambler</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you roll a die, Nakayama Festa gains +X/+0 and first strike until end of turn, where X is the result.
+Whenever Nakayama Festa blocks or becomes blocked, roll a six-sided die.</text>
+    </card>
+    <card>
+      <name>Cultivate</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Orfevre, Golden Tyrant</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Orfevre enters, you become the monarch.
+At the beginning of your end step, if you’re the monarch, create a treasure token. If Orfevre dealt combat damage to an opponent this turn, create two treasure tokens instead.</text>
+    </card>
+    <card>
+      <name>Zenno Rob Roy, Student Librarian</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Heroic Author — Saga spells you cast cost {1} less to cast.
+Raise your sword! — Whenever the final chapter ability of a Saga you control resolves, draw a card and put X +1/+1 counters on Zenno Rob Roy, where X is the number of that chapter.</text>
+    </card>
+    <card>
+      <name>Stay Gold, Wanderer</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>2WUBR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eminence — Whenever another Horse enters the battlefield under your control, if Stay Gold is in the command zone or on the battlefield, you may sacrifice a Treasure. If you do, place a +1/+1 counter on that Horse. If it’s white, place a vigilance counter on it. If it’s blue, place a flying counter on it. If it’s black, place a menace counter on it. If it’s red, place a trample counter on it.
+{T}, Tap five untapped Lands you control: Create five Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Transcend, Seeker of the Unknown</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time.
+Once per turn, you may play an artifact card from the top of your library. If you cast a spell this way, you may sacrifice an artifact. If you do, that spell costs {X} less to cast, where X is the sacrificed artifact’s mana value.</text>
+    </card>
+    <card>
+      <name>Fenomeno, Jet-Black Monster</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other creatures you control with power 2 or less have ward {2}.
+{R}: Fenomeno gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Sweep Tosho, Little Witch</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Sweep Tosho becomes the target of a spell, choose one:
+• Eat Your Vegetables — Create a Food token.
+• Do Whatever You Want — Lose 3 life, then exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>Hokko Tarumae, Star of Tomakomai</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hokko Tarumae enters or attacks, place a tourism counter on target legendary land or Town you control. For as long as it has a tourism counter on it, it gains “{T}: Add one mana of any color. You gain X life, where X is the amount of tourism counters on this land. Target opponent creates a Treasure token.”</text>
+    </card>
+    <card>
+      <name>Win Variation, Indomitable Principal</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Performer Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dethrone
+Win Variation must be blocked if able.
+Counters remain on Win Variation as she moves to any zone other than a player’s hand or library.</text>
+    </card>
+    <card>
+      <name>Mihono Bourbon, Incline Invicta</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>G00 1st. F∞; — Haste, first strike, vigilance
+Tap an untapped artifact you control: Mihono Bourbon gets +X/+X until end of turn, where X is that artifact’s mana value. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Chrono Genesis, Chronicler of Time</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>5WUU</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for historic permanents
+Whenever Chrono Genesis deals combat damage to a player, place a prix counter on her.
+Remove three prix counters from Chrono Genesis: Take an extra turn after this one. Activate only once.</text>
+    </card>
+    <card>
+      <name>Deduce</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Investigate.</text>
+    </card>
+    <card>
+      <name>Yaeno Muteki, Will of Steel</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Monk Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, prowess
+You may tap Yaeno Muteki as she attacks (as if she didn’t have vigilance). When you do, exile the top X cards of your library, where X is her power. Until the end of your next turn, you may play those cards.</text>
+    </card>
+    <card>
+      <name>Mayano Top Gun, Free Spirit</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, partner
+When Mayano Top Gun enters, choose one —
+• Front Runner — Put a haste counter on her.
+• Pace Chaser — Put a vigilance counter on her.
+• Late Surger — Put a menace counter on her.
+• End Closer — Put a trample counter on her.</text>
+    </card>
+    <card>
+      <name>Agnes Tachyon, Mad Scientist (WIP)</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Scientist Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player, create a Mutagen token.
+Mutagens you control have</text>
+    </card>
+    <card>
+      <name>Colorstorm Stallion</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1}, haste
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, create a token that’s a copy of this creature.</text>
+    </card>
+    <card>
+      <name>Kikuka Sho (TEST)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Siege </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Kikuka Sho enters, tap all creatures whose power is greater than or equal to their toughness. Place a stun counter on all creatures tapped this way.</text>
+    </card>
+    <card>
+      <name>Winning the Soul — Kikuka Sho (TEST)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Goal In! — Place a vigilance counter on target creature with the highest number of pace counters. Then remove all pace counters from all permanents. For each pace counter removed this way, place a +1/+1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>Rookie Rivalry</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player may create an Umamusume token. (It’s a 1/1 white Horse Racer creature.) For each player that does, place a +1/+1 counter on target Horse you control.</text>
+    </card>
+    <card>
+      <name>Tire Pull</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2/BG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target untapped creature you control. Then it performs friendship training—Pay 2 life. (You may pay 2 life in addition to any other costs and tap another untapped creature you control any number of times.)
+Put two +1/+1 counters on that creature, plus two additional +1/+1 counters for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Director Yayoi Akikawa</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>XWUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human? Horse? Cat Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {5}
+When Yayoi Akikawa enters, create X Treasure tokens.
+Whenever you tap an artifact token for mana, add one mana of any color. Spend this mana only to cast an artifact or Horse spell.</text>
+    </card>
+    <card>
+      <name>Starting Gate</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, that player creates an Umamusume token. (It’s a 1/1 white Horse Racer creature.)
+{T}: Add {C}.
+Focus — {2}, {T}: Target Horse gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>12 Billion Yen Incident</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UU/R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature spell to its owner’s hand. Create X Treasure tokens, where X is that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Tomakomai</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Town </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{3}, {T}: Put a tourism counter on Tomakomai. Then if Tomakomai has seventeen or more tourism counters on it, you win the game.</text>
+    </card>
+    <card>
+      <name>Speed Training</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {2}. (You may pay an additional {2} and tap another untapped creature you control any number of times.)
+It gains haste until end of turn. Put a +1/+1 counter on it for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Push-Button Quiz</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2/RU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {U/R}. If the friendship training cost was paid, it gains first strike until end of turn and you draw a card for each time the friendship training cost was paid.
+Reveal a card from your hand. That creature gets +X/+0 until end of turn, where X is that card’s mana value. </text>
+    </card>
+    <card>
+      <name>Aquatic Conditioning</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2/UW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training 1W.
+Put a vigilance counter and a +1/+1 counter on it, plus an +1/+1 counter on it for each time the friendship training cost was paid. That creature and the other creatures tapped this way phase out.</text>
+    </card>
+    <card>
+      <name>Tile Smash</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2/WB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training 1W. Put a deathtouch counter on it, plus an additional +1/+1 counter for each time the friendship training cost was paid.
+Destroy target artifact or enchantment. You may destroy up to one other target artifact or enchantment for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Together Forever</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, support 2.
+{1}: Choose target creature with a counter on it. When that creature dies this turn, return that card to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Descendants&apos; Path</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, reveal the top card of your library. If it’s a creature card that shares a creature type with a creature you control, you may cast it without paying its mana cost. If you don’t cast it, put it on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Calstone Light O, Straight Shooter</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Neko. — Cats you control get +1/+0 for every Horse you control. Horses you control get +1/+0 for every Cat you control.
+Chokusen Bancho — When Calstone Light O enters, choose an opponent. Calstone Light O attacks that player each combat if able.</text>
+    </card>
+    <card>
+      <name>KS Miracle, Life&apos;s Gratitude</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you gain life, you may pay {W/U}. When you do, surveil X, where X is the amount of life you gained.
+Exile five cards from your graveyard: K.S. Miracle gains persist until end of turn.</text>
+    </card>
+    <card>
+      <name>Hishi Akebono, Colossus</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>9GGW</manacost>
+        <cmc>12</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Hishi Akebono costs {X} less to cast, where X is the amount of life you gained this turn.
+Whenever Hishi Akebono attacks, you and defending player each create 2 Food tokens.
+Dash 9RGW</text>
+    </card>
+    <card>
+      <name>Glad Tidings</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gift a Treasure, gift a Treasure, gift a Treasure
+Create a Treasure token. If the gift was promised, you gain 1 life for each different player gifted this way.</text>
+    </card>
+    <card>
+      <name>Nice Nature, Bronze Collector</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If Nice Nature is the third spell you cast this turn, she gains haste until end of turn.
+Mystifying Murmur — Whenever you draw your third card each turn, tap up to one target creature.
+Just A Little Farther! — Whenever you attack with three or more creatures, Nice Nature gets +1/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Sakura Bakushin O, Bakushin King</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, hexproof
+Genius × Bakushin = Victory — You may exert Sakura Bakushin O as she attacks. When you do, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Symboli Kris S, Onyx Soldier</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>GWUB // 2B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer Assassin Soldier  // Instant</type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vigilance, reach, deathtouch
+Mission: Triumph — Whenever a creature an opponent controls dies, if its toughness was exactly 0, scry 4, then draw a card.
+XB, {T}, discard a card: Target creature gets -0/-Y, where Y is that card’s mana value plus X.
+--- 
+Target creature gets -0/-9999 until end of turn.</text>
+    </card>
+    <card>
+      <name>King Halo, Unbreakable Spirit</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>1RGW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each combat, King Halo gains first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, and vigilance.
+At the beginning of your end step, create an Umamusume token. (It’s a 1/1 white Horse Racer creature.) Then put your choice of a counter from among first strike, trample, vigilance, and lifelink on it.</text>
+    </card>
+    <card>
+      <name>Sirius Symboli, Brilliant Alpha</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, gain control of each token creature your opponents control with power X or less until end of turn, where X is Sirius Symboli’s power. Then untap them. They gain haste until end of turn.
+Dogs you control get +1/+0.
+Token creatures you control are Dogs in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Mr CB, Boundless Breeze</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RRGG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, trample
+{R/G}: Untap target attacking creature and remove it from combat. It explores.</text>
+    </card>
+    <card>
+      <name>Katsuragi Ace, World Conqueror</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Runaway — {1}: Katsuragi Ace can’t be blocked this turn except by creatures with haste.
+Breaking the Wall — Whenever Katsuragi Ace deals combat damage to a player, destroy target artifact or enchantment that player controls.</text>
+    </card>
+    <card>
+      <name>Neo Universe, Cosmic Observer</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Incarnation Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>『僕』 — Horse Racers you control are Incarnations in addition to their other types.
+“Constellation” — Whenever an enchantment you control enters, surveil X, where X is that enchantment’s mana value.
+When Neo Universe leaves the battlefield, return target enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Wit Training</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {1}. (You may pay an additional {1} and tap another untapped creature you control any number of times.)
+Scry X and untap up to X lands, where X is the number of times the friendship training cost was paid.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Stamina Training</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {2}. (You may pay an additional {2} and tap another untapped creature you control any number of times.)
+Put a lifelink counter on it. Put a +1/+1 counter on it for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Biko Pegasus, Flying Justice</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer Hero </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Haste
+Carrot Ranger Kick — During your turn, Biko Pegasus has flying.
+When Biko Pegasus enters, exile target attacking non-Hero creature until Biko Pegasus leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Duelist&apos;s Heritage</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Power Training</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {2}. (You may pay an additional {2} and tap another untapped creature you control any number of times.)
+Put a menace counter on it. Put a +1/+1 counter on it for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Guts Training</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training {2}. (You may pay an additional {2} and tap another untapped creature you control any number of times.)
+Put a trample counter on it. Put a +1/+1 counter on it for each time the friendship training cost was paid.</text>
+    </card>
+    <card>
+      <name>Volleyball Catch</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2/GR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control performs friendship training 1R/G. (You may pay an additional 1R/G and tap another untapped creature you control any number of times.)
+Put a first strike counter and a +1/+1 counter on it, plus an additional +1/+1 counter for each time the friendship training cost was paid.
+You may attach target Aura or Equipment attached to a creature you control to another target creature you control.</text>
+    </card>
+    <card>
+      <name>Twin Turbo, Track Terror</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, double strike
+Whenever Twin Turbo is blocked, she deals 1 damage to each creature and each player. (This includes herself.)</text>
+    </card>
+    <card>
+      <name>Bamboo Memory, Iron Ambition</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Warrior Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bamboo Memory enters, create a colorless Equipment artifact token named Bamboo Sword with “Equipped creature gets +1/+1 and has vigilance” and equip {2}. Attach it to Bamboo Memory.
+Whenever an opponent commits a crime, put a +1/+1 counter on target equipped creature you control.</text>
+    </card>
+    <card>
+      <name>Norn Ace, Disgusted</name>
+      <set rarity="common" splitterPath="/Norn Ace, Disgusted.png" >UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Norn Ace enters the battlefield under the control of an opponent of your choice.
+Norn Ace must block if able.
+When Norn Ace leaves the battlefield, return her to the battlefield tapped and transformed under her owner’s control.
+---
+(Back): Norn Ace, Delighted</text>
+      <related attach="transform">Norn Ace, Delighted</related>
+    </card>
+    <card>
+      <name>Norn Ace, Delighted</name>
+      <set rarity="common" splitterPath="/Norn Ace, Delighted.png" >UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Fan </type>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms into Norn Ace, Delighted, create a 0/1 white Toy artifact creature token.
+{T}: Choose one—
+• Create a 0/1 white Toy artifact creature token.
+• Support X, where X is the number of Toys you control.
+---
+(Front): Norn Ace, Disgusted</text>
+      <related attach="transform">Norn Ace, Disgusted</related>
+    </card>
+    <card>
+      <name>Inari One, Warlord from Oi</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>BRG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Fox Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more land cards are put into your graveyard from anywhere for the first time each turn, create a 2/2 white Fox creature token with vigilance.
+Sacrifice a land: Creatures you control gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Dirt Aptitude</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Whenever you sacrifice a land for the first time each turn, draw a card. 
+1BG: Level 2
+Aptitude A — Whenever a land you control enters, if it’s a Swamp, creatures you control gain menace until end of turn. If it’s a Forest, creatures you control gain trample until end of turn.
+3BG: Level 3
+Aptitude S — Creatures you control gain +X/+X, where X is the number of land cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Front Runner Aptitude</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Whenever a creature you control attacks alone, draw a card.
+1WU: Level 2:
+Aptitude A — Creatures you control have exalted.
+1WU: Level 3
+Aptitude S — Creatures you control have “{2}: This creature can’t be blocked this turn.”</text>
+    </card>
+    <card>
+      <name>Sprint Aptitude</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Creatures you control with haste get +1/+0.
+1R: Level 2
+Aptitude A — Creatures you control with haste have first strike.
+2R: Level 3
+Aptitude S — Creatures you control with haste have double strike.</text>
+    </card>
+    <card>
+      <name>Long Aptitude</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Creatures you control gain +0/+1.
+1W: Level 2
+Aptitude A — Creatures you control have vigilance.
+1WW: Level 3
+Aptitude S — During your turn, each creature assigns combat damage equal to its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Smart Falcon, Top Umadol</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Bard Racer </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Smart Falcon enters or attacks, create a 1/1 white Fan creature token.
+Smart Falcon’s power and toughness are each equal to the number of creatures you control.
+Whenever you populate, instead populate once for each opponent.</text>
+    </card>
+    <card>
+      <name>End Closer Aptitude</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Creatures you control with trample enter with a +1/+1 counter on them.
+RG: Level 2
+Aptitude A — When this Class becomes Level 2, target creature you control fights target creature an opponent controls. If the creature you control has trample, excess damage is dealt to that creature’s controller instead.
+1RG: Level 3
+Aptitude S — Creatures you control with trample have “You may have this creature assign its combat damage as though it weren’t blocked.”</text>
+    </card>
+    <card>
+      <name>Late Surger Aptitude</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Whenever you attack a player, tap target creature that player controls.
+1U: Level 2
+Aptitude A — Whenever one or more creatures you control deal combat damage to a player, draw a card.
+1UU: Level 3
+Aptitude S — Whenever one or more creatures you control deal combat damage to a player, return target tapped creature that player controls to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Pace Chaser Aptitude</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Aptitude B — Whenever a creature you control becomes blocked, it gains +1/+1 until end of turn.
+1G: Level 2
+Aptitude A —
+3GW: Level 3
+Aptitude S —  </text>
+    </card>
+    <card>
+      <name>Anointed Procession</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Mejiro McQueen, Crown Jewel</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Creatures you control have protection from creatures your opponents control with lesser toughness.</text>
+    </card>
+    <card>
+      <name>Daiwa Scarlet, Miss Perfect</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Vodka, Wild Top Gear
+Vigilance
+Rivalry — Daiwa Scarlet gets +1/+1 and has hexproof as long as you control another commander.</text>
+    </card>
+    <card>
+      <name>Vodka, Wild Top Gear</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Daiwa Scarlet, Miss Perfect
+Trample
+Rivalry — Vodka gets +1/+1 and has haste as long as you control another commander.</text>
+    </card>
+    <card>
+      <name>Maruzensky, Hot Rod</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Pilot Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Historic creatures you control have haste.
+Whenever Maruzensky crews a Vehicle, that Vehicle gets +X/+X until end of turn, where X is Maruzensky’s power.
+Whenever a historic creature you control deals combat damage to a player, it explores.</text>
+    </card>
+    <card>
+      <name>Mejiro Dober, Coolheaded Beauty</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each opponent’s upkeep, that player chooses warmth or cold. If they chose warmth, you and that player each draw a card. If they chose cold, tap two creatures they control.</text>
+    </card>
+    <card>
+      <name>Sakura Chiyono O, Strength in Full Bloom (WIP)</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Training</text>
+    </card>
+    <card>
+      <name>Three Goddesses Statue</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{3}, {T}: Choose two Horse cards in your graveyard. Then add two mana in any combination of colors. If one of the chosen cards had haste, when you next cast a Horse creature spell this turn, that Horse enters with a haste counter on it. Do the same for flying, first strike, double strike, deathtouch, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+    </card>
+    <card>
+      <name>El Condor Pasa, Lucha Libre</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Wrestler </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When El Condor Pasa enters, create a 1/1 white Bird token with flying.
+Victoria por plancha ☆ — During your turn, El Condor Pasa has flying.
+No Spice, No Life! — El Condor Pasa gets +2/+0 for each -1/-1 counter on her.</text>
+    </card>
+    <card>
+      <name>Nishino Flower, Little Miss Prodigy</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creature spells with power and toughness 1/1 you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Meisho Doto, Turbulent Blue</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Meisho Doto enters, create a 1/1 white Cat creature token.
+Cats, Boars, Cows, Dogs, Goats, Oxen, Rabbits, Raccoons, and Sheep you control have  “1G/W, {T}: Target Horse you control gets +0/+2 and gains lifelink until end of turn.”
+Other Birds and Horses you control have “1R, {T}: Goad other target Horse. It gets +2/+0 and gains haste until your next turn.”</text>
+    </card>
+    <card>
+      <name>Taiki Shuttle, Mightiest Miler</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RR/G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, reach
+Wild Frontier — Whenever a land you control enters, you may have Taiki Shuttle deal 1 damage to any target.
+Shooting for Victory! — Whenever a source you control deals noncombat damage to a creature, that creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Air Groove, Empress (WIP)</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Air Groove enters, you become the monarch.
+Creatures can’t attack you unless their controller pays {1} for each creature they control that’s attacking you. If you’re the monarch, creatures can’t attack you unless their controller pays {2} for each creature they control that’s attacking you instead.</text>
+    </card>
+    <card>
+      <name>Grass Wonder, Yamato Nadeshiko</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Warrior Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have “{T}: Add one mana of any color.”
+Whenever you cast a green creature spell, it enters with a +1/+1 counter on it for each color of mana spent to cast it. If {R} was spent to cast it, it enters with a first strike counter on it. If {W} was spent to cast it, it enters with a vigilance counter on it.</text>
+    </card>
+    <card>
+      <name>Riko Kashimoto, Acting Director</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Riko </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Riko Kashimoto enters, create Bitter Glasse, a legendary 3/3 red Horse Racer creature token with trample, and create Little Cocon, a legendary 3/3 white and blue Horse Racer creature token with vigilance.
+[+1]: You may sacrifice a noncreature permanent you control. If you do, target creature gets +3/+3 and gains lifelink until end of turn.
+[-6:]: You get an emblem with “For every 1 life more than your starting total, creatures you control get +1/+1.”
+Riko Kashimoto, Acting Director can be your commander.</text>
+    </card>
+    <card>
+      <name>Ikuno Dictus, Mantle of Steel</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+If you would scry any number of cards, scry that number twice instead.
+{T}: You may reveal a card in your hand. If you do, whenever a source would deal exactly X damage to a permanent or player this turn, prevent that damage, where X is that card’s mana value.</text>
+    </card>
+    <card>
+      <name>Marvelous Sunday, Marvelous Evangelist</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Marvelous Sunday enters with a MARVELOUS! ☆ counter on her.
+Whenever Marvelous Sunday attacks, each opponent may choose to put a MARVELOUS! ☆ counter on a nonland permanent they control. For each opponent who does, put a MARVELOUS! ☆ counter on up to one nonland permanent you control.
+Permanents with MARVELOUS! ☆ counters have protection from permanents without MARVELOUS! ☆ counters.</text>
+    </card>
+    <card>
+      <name>Sasami Anshinzawa, Hackupuncturist</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Doctor? </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Pay 1 life: Choose another target creature. Then roll a d20.
+1-9 | Put a -1/-1 counter on chosen creature.
+10-19 | Put a -1/-1 counter on chosen creature. It gets +2/+2 and gains lifelink until your next turn.
+20 | Chosen creature gains indestructible &amp; lifelink until your next turn.</text>
+    </card>
+    <card>
+      <name>Shinko Windy, Fanged Menace</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever one or more creatures an opponent controls deals combat damage to a player, Shinko Windy deals damage equal to her power to target attacking creature.</text>
+    </card>
+    <card>
+      <name>Espoir City, Red Devil Gear</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>1+*/1+*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Ward—Pay 2 life.</text>
+    </card>
+    <card>
+      <name>Oguri Cap, Ashen Beast</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>4WBG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Horse Racer Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, lifelink, trample
+Whenever Oguri Cap enters or becomes the target of a spell, she fights up to one other target creature.
+Whenever a creature dealt damage by Oguri Cap this turn leaves the battlefield, put a +1/+1 counter on Oguri Cap and counter up to one target spell.</text>
+    </card>
+    <card>
+      <name>Professor of Curvature</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell has flash as long as you control a Horse.
+Draw two cards. If this spell was cast during combat, draw three cards instead.</text>
+    </card>
+    <card>
+      <name>The Twinkle Series</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, return target legendary Horse from your graveyard to the battlefield. It gains haste until end of turn. At the beginning of your end step, return it to your hand.</text>
+    </card>
+    <card>
+      <name>Tanino Gimlet, God of Destruction</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>4BRG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Horse Racer Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tanino Gimlet enters, noncreature artifacts become artifact creatures with power and toughness 0/4 and defender until end of turn.
+Whenever Tanino Gimlet enters or a creature with defender dies, you may pay 2 life. If you do, she fights target creature you don’t control.
+Evoke 2BRG</text>
+    </card>
+    <card>
+      <name>Almond Eye, Crown-Chaser</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Almond Eye, Crown-Chaser deals combat damage to an opponent, put a victory counter on Almond Eye, Crown-Chaser. Then for each victory counter on it, that opponent sacrifices a creature or discards a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Umamusume</name>
+      <set>UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Horse Racer  </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bamboo Sword</name>
+      <set>UUMA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has vigilance.
+Equip {2}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Toy</name>
+      <set>UUMA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Toy </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bitter Glasse</name>
+      <set>UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <type>Legendary Token Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Little Cocon</name>
+      <set>UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <type>Legendary Token Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Riko Kashimoto, Acting Director Emblem</name>
+      <set>UUMA</set>
+      <prop>
+        <colors></colors>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>For every 5 life more than your starting total, creatures you control get +2/+2.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
