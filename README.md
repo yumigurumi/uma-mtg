@@ -16,4 +16,4 @@ This is a [Cockatrice](https://cockatrice.github.io/)-compatible Umamusume-inspi
 - Stardust
 - hisuiyumi
 - Carstein
-- Rin
+- Rin A
