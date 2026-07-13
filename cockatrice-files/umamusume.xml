@@ -1705,7 +1705,7 @@ __________. — The third time an opponent commits a crime against you each turn
     </card>
     <card>
       <name>Nakayama Festa, Natural Gambler</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="rare">UUMA</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -1715,7 +1715,7 @@ __________. — The third time an opponent commits a crime against you each turn
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you roll a die, Nakayama Festa gains +X/+0 and first strike until end of turn, where X is the result.
+      <text>Whenever you one or more six-sided dice, Nakayama Festa gains +X/+0 and first strike until end of turn, where X is the result.
 Whenever Nakayama Festa blocks or becomes blocked, roll a six-sided die.</text>
     </card>
     <card>
@@ -1860,15 +1860,16 @@ Counters remain on Win Variation as she moves to any zone other than a player’
       <set rarity="rare">UUMA</set>
       <prop>
         <colors>WUR</colors>
-        <manacost>1URW</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Horse Racer </type>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Cyborg Racer </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>G00 1st. F∞; — Haste, first strike, vigilance
-Tap an untapped artifact you control: Mihono Bourbon gets +X/+X until end of turn, where X is that artifact’s mana value. Activate only once each turn.</text>
+      <text>Haste, first strike, vigilance
+MB-19890425 — Whenever Mihono Bourbon or a nontoken artifact you control enters, put a +1/+1 counter on her and you get {E}.
+G00 1st. F∞; —  Whenever Mihono Bourbon attacks, if it’s the first combat phase of the turn, you may pay EEEE. If you do, after this combat phase, there is an additional combat phase. Only Mihono Bourbon can attack during that combat phase.</text>
     </card>
     <card>
       <name>Chrono Genesis, Chronicler of Time</name>
@@ -2612,7 +2613,7 @@ Aptitude S — During your turn, each creature assigns combat damage equal to it
         <colors>WG</colors>
         <manacost>2GW</manacost>
         <cmc>4</cmc>
-        <type>Legendary Creature - Horse Bard Racer </type>
+        <type>Legendary Creature - Horse Racer Bard </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
       </prop>
@@ -2767,7 +2768,7 @@ Whenever a historic creature you control deals combat damage to a player, it exp
     </card>
     <card>
       <name>Sakura Chiyono O, Strength in Full Bloom (WIP)</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="rare">UUMA</set>
       <prop>
         <colors>WRG</colors>
         <manacost>RGW</manacost>
@@ -2814,14 +2815,15 @@ No Spice, No Life! — El Condor Pasa gets +2/+0 for each -1/-1 counter on her.<
       <set rarity="rare">UUMA</set>
       <prop>
         <colors>WG</colors>
-        <manacost>G/W</manacost>
-        <cmc>1</cmc>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
         <type>Legendary Creature - Horse Racer </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Creature spells with power and toughness 1/1 you cast cost {1} less to cast.</text>
+      <text>Creature spells with power and toughness 1/1 you cast cost {1} less to cast.
+{T}, Sacrifice a Food: You gain 3 life.</text>
     </card>
     <card>
       <name>Meisho Doto, Turbulent Blue</name>
@@ -2968,7 +2970,7 @@ Permanents with MARVELOUS! ☆ counters have protection from permanents without 
 Whenever one or more creatures an opponent controls deals combat damage to a player, Shinko Windy deals damage equal to her power to target attacking creature.</text>
     </card>
     <card>
-      <name>Espoir City, Red Devil Gear (WIP)</name>
+      <name>Espoir City, Red Devil Gear</name>
       <set rarity="rare">UUMA</set>
       <prop>
         <colors>BR</colors>
@@ -2980,7 +2982,9 @@ Whenever one or more creatures an opponent controls deals combat damage to a pla
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Ward—Pay 2 life.</text>
+Start your engines!
+Ward—Pay life equal to Espoir City’s controller’s speed.
+Max speed — Whenever Espoir City deals combat damage to an opponent, she deals that much damage to each other opponent.</text>
     </card>
     <card>
       <name>Oguri Cap, Ashen Beast</name>
@@ -3118,10 +3122,9 @@ Aptitude S — Horses you control get +X/+X, where X is the number of basic land
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — ​
-II — ​
-III — ​</text>
+      <text>Trample
+Lone Wolf — Whenever Narita Brian attacks alone, manifest dread.
+Shadow Break — 1B: Reveal target face-down creature you control. Narita Brian gets +X/+X until end of turn, where X is that card’s mana value. Sacrifice that creature.</text>
     </card>
     <card>
       <name>King Halo, Envious Flame</name>
@@ -3514,9 +3517,9 @@ Whenever Kiseki attacks, put a lore counter on up to X target Sagas you control,
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Create an Umamusume token and a Food token.
-II — Sacrifice any number of Foods you control. Then put a trample counter and that many +1/+1 counters on target creature.
-III — Target creature you control fights target creature you don’t control.</text>
+Create an Umamusume token and a Food token.
+Sacrifice any number of Foods you control. Then put a trample counter and that many +1/+1 counters on target creature.
+Target creature you control fights target creature you don’t control.</text>
     </card>
     <card>
       <name>For the Folks Back Home</name>
@@ -3564,8 +3567,8 @@ Until end of turn, whenever a creature attacks, tap it and put a stun counter on
       <set rarity="mythic">UUMA</set>
       <prop>
         <colors>WR</colors>
-        <manacost>RW</manacost>
-        <cmc>2</cmc>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Horse Phoenix Racer </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -3624,6 +3627,130 @@ Rose Conquest — Whenever a creature dealt damage by Gentildonna this turn dies
 Start your engines!
 Whenever McQueen blocks or becomes blocked, she gets +0/+X until end of turn, where X is your speed.
 Max speed — Whenever an opponent attacks you, if McQueen doesn’t have a flying counter on her, you may pay WWU. If you do, put a +1/+1 counter, a flying counter, and a hexproof counter on her. She gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Winner&apos;s Sash</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a token that’s a copy of this artifact, except it loses its equip abilities. Attach it to equipped creature.
+{T}, Sacrifice Winner’s Sash: Add one mana of any color.
+Equip Horse {1}
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Weighted Cleats</name>
+      <set rarity="common">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets -2/-0 and has “Whenever this creature becomes tapped, put a +1/+1 counter on it.”
+Equip Horse {1}
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Hachimi</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Hachimi XL — Replicate {1}
+{1}, {T}, Sacrifice Hachimi: Gain 2 life. Target Horse you control gains haste until end of turn. If it already had haste, it gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Red Desire, Crimson Saintess</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever one or more creatures are exiled from anywhere, create a Blood token.
+RW/B: Put a finality counter on target creature. Then Red Desire deals 2 damage to it.</text>
+    </card>
+    <card>
+      <name>Belno Light, Fearless Farrier</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, put a +1/+1 counter on target Horse you control.
+{T}: Attach target Equipment you control to target Horse you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Buena Vista, The Promised View</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you gain life for the first time during each of your turns, gain an experience counter.
+At the beginning of combat on your turn, support X, where X is the number of experience counters you have.</text>
+    </card>
+    <card>
+      <name>King and Urara, Cycle of Love</name>
+      <set rarity="mythic">UUMA</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>1RGW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, lifelink
+Whenever King and Urara become the target of a spell or ability an opponent controls, you may draw a card. If you do, that player draws a card. Otherwise, King and Urara deal damage to that player equal to their power.</text>
+    </card>
+    <card>
+      <name>Curren Chan, Ma Chérie</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4WW/BB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Creature spells you cast have affinity for enchantments.
+Enchantment spells you cast have affinity for creatures.</text>
     </card>
 
     <!-->Tokens</-->
