@@ -717,7 +717,7 @@ Whenever the final chapter ability of a Saga you control triggers, creatures you
         <cmc>3</cmc>
         <type>Legendary Creature - Horse Racer </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>1U, {T}: Scry 1.
@@ -2150,7 +2150,7 @@ Destroy target artifact or enchantment. You may destroy up to one other target a
     </card>
     <card>
       <name>Descendants&apos; Path</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="uncommon">UUMA</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2769,18 +2769,20 @@ Whenever a historic creature you control deals combat damage to a player, it exp
       <text>At the beginning of each opponent’s upkeep, that player chooses warmth or cold. If they chose warmth, you and that player each draw a card. If they chose cold, tap two creatures they control.</text>
     </card>
     <card>
-      <name>Sakura Chiyono O, Strength in Full Bloom (WIP)</name>
+      <name>Sakura Chiyono O, Strength in Full Bloom</name>
       <set rarity="rare">UUMA</set>
       <prop>
         <colors>WRG</colors>
-        <manacost>RGW</manacost>
-        <cmc>3</cmc>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
         <type>Legendary Creature - Horse Racer </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Training</text>
+      <text>Vigilance, haste
+Whenever Sakura Chiyono O deals combat damage to a player, create that many 0/1 green Plant creature tokens.
+Plants you control have haste and “{T}, Sacrifice this creature: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Three Goddesses Statue</name>
@@ -2829,7 +2831,7 @@ No Spice, No Life! — El Condor Pasa gets +2/+0 for each -1/-1 counter on her.<
     </card>
     <card>
       <name>Meisho Doto, Turbulent Blue</name>
-      <set rarity="common">UUMA</set>
+      <set rarity="rare">UUMA</set>
       <prop>
         <colors>WRG</colors>
         <manacost>RGW</manacost>
@@ -3189,7 +3191,7 @@ When Rhein Kraft dies or the last crown counter is removed, exile her, then retu
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ritmo del Terra — Whenever you cast an instant or sorcery spell, create a 0/1 green Plant creature token. If five or more mana was spent to cast that spell, for each Plant token you control, create a token that’s a copy of that permanent.
+      <text>Ritmo del Terra — Whenever you cast an instant or sorcery spell, create a 0/1 green Plant creature token. If five or more mana was spent to cast that spell, create two of those tokens instead. 
 Plants you control have “{T}: Add {U} or {R}. Spend this mana only to cast an instant or sorcery spell.”</text>
     </card>
     <card>
@@ -3957,12 +3959,14 @@ Whenever a creature you control explores, create a tapped Treasure token.</text>
         <colors>UR</colors>
         <manacost>2UR</manacost>
         <cmc>4</cmc>
-        <type>Legendary Creature - Horse Racer </type>
+        <type>Legendary Creature - Horse Racer Performer </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text></text>
+      <text>Haste
+Whenever you cast a noncreature spell, you may have Tap Dance City deal 1 damage to target creature. If you do, tap that creature.
+Whenever Tap Dance City deals combat damage to a player, create a Treasure token.</text>
     </card>
     <card>
       <name>Air Messiah, Fulfiller of Destiny</name>
@@ -3993,6 +3997,150 @@ When Air Messiah enters, exile target Horse card from your graveyard until Air M
       <tablerow>2</tablerow>
       <text>Training, vigilance
 Nandeyanen!? — {T}: Lucky Lilac deals damage equal to her power to target attacking creature. Then put a -1/-1 counter on her.</text>
+    </card>
+    <card>
+      <name>Sakura Laurel, Saisir Le Rêve (WIP)</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, vigilance
+Sakura Laurel enters with six -1/-1 counters on her.
+Pay 2 life, Remove a counter from Sakura Laurel: </text>
+    </card>
+    <card>
+      <name>Gran Alegria, Queen of the Mile</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RRR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a source you control would deal noncombat damage, you may have it deal 3 damage instead.</text>
+    </card>
+    <card>
+      <name>Yukino Bijin, Beauty of Iwate</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Snow Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may play an additional land on each of your turns.
+Landfall — Whenever a land you control enters, if it’s a snow land, create a Food token. Otherwise, you may sacrifice a Food. If you do, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Tracen Academy Trainer</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment - Background </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Commander creatures you own have “{X}, {T}: Distribute X +1/+1 counters among any number of other target Horses you control.”</text>
+    </card>
+    <card>
+      <name>North Flight, Fashionable</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever North Flight or another creature you control enters, attach up to one target Aura or Equipment you control to that creature.
+Creatures you control that are enchanted or equipped have flying.</text>
+    </card>
+    <card>
+      <name>Wonder Acute, Refined Silver</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {X}, where X is the number of counters on Wonder Acute.
+At the beginning of your end step, put a +1/+1 counter on each creature you control. Then create a tapped Treasure token for each +1/+1 counter on Wonder Acute.</text>
+    </card>
+    <card>
+      <name>Senpai and Kouhai</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a legendary Horse you control enters, create an Umamusume token. (It’s a 1/1 white Horse Racer creature.)
+Whenever a legendary Horse you control leaves the battlefield, put a +1/+1 counter on target Horse you control.</text>
+    </card>
+    <card>
+      <name>Reckless Obstruction</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Reckless Obstructor</name>
+      <set rarity="uncommon">UUMA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Start your engines!
+Enchanted creature has menace and “Sacrifice this creature: Destroy up to X target attacking creatures, where X is your speed.”</text>
+    </card>
+    <card>
+      <name>Haru Urara, Tenacious Spirit</name>
+      <set rarity="rare">UUMA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse Racer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Choose target creature you control. When that creature dies this turn, return that card to its owner’s hand. This ability costs {2} less to activate if it targets a creature with power 2 or less.</text>
     </card>
 
     <!-->Tokens</-->
